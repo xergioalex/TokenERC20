@@ -1,4 +1,4 @@
-TokenERC20
+TokenERC20 with Ethereum
 ---
 
 Learning basic contracts in Ethereum with Solidity
